@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333333;
+    text-align: center;
+}
+
+h2 {
+    color: #0047ab;
+}
+header {
+    background-color: #0047ab;
+    color: white;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+header h1 {
+    margin: 5px 0;
+}
+
+nav a {
+    color: white;
+    padding: 8px 14px;
+    display: inline-block;
+}
+
+
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+th, td {
+    border: 1px solid #0047ab;
+    padding: 10px;
+}
+
+th {
+    background-color: #0047ab;
+    color: white;
+}
+
+
+.project {
+    background-color: white;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 15px auto;
+    max-width: 450px;
+}
+
+.project h3 {
+    margin: 5px 0;
+}
+
+.form-table {
+    width: 80%;
+}
+
+.form-table td {
+    padding: 8px;
+}
+
+input, textarea {
+    width: 90%;
+    padding: 5px;
+}
+
+button {
+    background-color: #0047ab;
+    color: white;
+    padding: 8px 40px;
+    border: none;
+    border-radius: 5px;
+}
+
+.back-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #0047ab;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+
+
